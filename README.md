@@ -16,3 +16,5 @@ JSX (JavaScript HTML) was used to combine HTML and Javascript in order to preven
 and to easily understand the code.
 
 Redux was also used in this application to manage the entire state of the application.
+
+link: https://clone-a46ae.web.app/
